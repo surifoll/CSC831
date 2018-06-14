@@ -1,0 +1,14 @@
+C:\Users\Suraj\Source\Assignment\HopfieldNeuralNetwork_src\HopfieldNeuralNetwork\bin\Debug\HopfieldNeuralNetwork.XML
+C:\Users\Suraj\Source\Assignment\HopfieldNeuralNetwork_src\HopfieldNeuralNetwork\bin\Debug\HopfieldNeuralNetwork.dll
+C:\Users\Suraj\Source\Assignment\HopfieldNeuralNetwork_src\HopfieldNeuralNetwork\bin\Debug\HopfieldNeuralNetwork.pdb
+C:\Users\Suraj\Source\Assignment\HopfieldNeuralNetwork_src\HopfieldNeuralNetwork\obj\Debug\HopfieldAssiggnmentCSC831.csprojResolveAssemblyReference.cache
+C:\Users\Suraj\Source\Assignment\HopfieldNeuralNetwork_src\HopfieldNeuralNetwork\obj\Debug\HopfieldAssiggnmentCSC831.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Source\Assignment\HopfieldNeuralNetwork_src\HopfieldNeuralNetwork\obj\Debug\HopfieldNeuralNetwork.dll
+C:\Users\Suraj\Source\Assignment\HopfieldNeuralNetwork_src\HopfieldNeuralNetwork\obj\Debug\HopfieldNeuralNetwork.pdb
+C:\Users\Suraj\Source\Assignment\New folder\HopfieldNeuralNetwork_src\HopfieldAssiggnmentCSC831\bin\Debug\HopfieldNeuralNetwork.XML
+C:\Users\Suraj\Source\Assignment\New folder\HopfieldNeuralNetwork_src\HopfieldAssiggnmentCSC831\bin\Debug\HopfieldNeuralNetwork.dll
+C:\Users\Suraj\Source\Assignment\New folder\HopfieldNeuralNetwork_src\HopfieldAssiggnmentCSC831\bin\Debug\HopfieldNeuralNetwork.pdb
+C:\Users\Suraj\Source\Assignment\New folder\HopfieldNeuralNetwork_src\HopfieldAssiggnmentCSC831\obj\Debug\HopfieldAssiggnmentCSC831.csprojResolveAssemblyReference.cache
+C:\Users\Suraj\Source\Assignment\New folder\HopfieldNeuralNetwork_src\HopfieldAssiggnmentCSC831\obj\Debug\HopfieldAssiggnmentCSC831.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Source\Assignment\New folder\HopfieldNeuralNetwork_src\HopfieldAssiggnmentCSC831\obj\Debug\HopfieldNeuralNetwork.dll
+C:\Users\Suraj\Source\Assignment\New folder\HopfieldNeuralNetwork_src\HopfieldAssiggnmentCSC831\obj\Debug\HopfieldNeuralNetwork.pdb

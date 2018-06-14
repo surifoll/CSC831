@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="UninformedSearch-CSC831" Title="UninformedSearch-CSC831 Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.ListExtensions.AddMany<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_000000000000000C.html" LinkGroup="UninformedSearch-CSC831">AddMany<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000002.html" LinkGroup="UninformedSearch-CSC831">City Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.City.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000005.html" LinkGroup="UninformedSearch-CSC831">City Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.Edge.Cost" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000009.html" LinkGroup="UninformedSearch-CSC831">Cost Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.Edge" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000006.html" LinkGroup="UninformedSearch-CSC831">Edge Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.Edge.Edge" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_000000000000000A.html" LinkGroup="UninformedSearch-CSC831">Edge Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.Edges" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000011.html" LinkGroup="UninformedSearch-CSC831">Edges Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.EndPoint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000017.html" LinkGroup="UninformedSearch-CSC831">EndPoint Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.Examine" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000019.html" LinkGroup="UninformedSearch-CSC831">Examine Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.Execute" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000018.html" LinkGroup="UninformedSearch-CSC831">Execute Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.ExploredEdges" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000014.html" LinkGroup="UninformedSearch-CSC831">ExploredEdges Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.ExploredNodes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000015.html" LinkGroup="UninformedSearch-CSC831">ExploredNodes Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.FirstItem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_000000000000000E.html" LinkGroup="UninformedSearch-CSC831">FirstItem Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.City.IsStartNode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000003.html" LinkGroup="UninformedSearch-CSC831">IsStartNode Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.ListExtensions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_000000000000000B.html" LinkGroup="UninformedSearch-CSC831">ListExtensions Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.Locations" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000010.html" LinkGroup="UninformedSearch-CSC831">Locations Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.City.Name" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000004.html" LinkGroup="UninformedSearch-CSC831">Name Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.Edge.Point1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000007.html" LinkGroup="UninformedSearch-CSC831">Point1 Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.Edge.Point2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000008.html" LinkGroup="UninformedSearch-CSC831">Point2 Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.PotentialEdges" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000012.html" LinkGroup="UninformedSearch-CSC831">PotentialEdges Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.PotentialNodes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000013.html" LinkGroup="UninformedSearch-CSC831">PotentialNodes Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.SearchComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_000000000000000F.html" LinkGroup="UninformedSearch-CSC831">SearchComplete Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation.StartPoint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000016.html" LinkGroup="UninformedSearch-CSC831">StartPoint Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util.UcsImplementation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_000000000000000D.html" LinkGroup="UninformedSearch-CSC831">UcsImplementation Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch-CSC831 Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_000000000000001A.html" LinkGroup="UninformedSearch-CSC831">UninformedSearch-CSC831 Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UninformedSearch_CSC831.Util" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UninformedSearch-CSC831.chm::/topic_0000000000000001.html" LinkGroup="UninformedSearch-CSC831">UninformedSearch_CSC831.Util Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
